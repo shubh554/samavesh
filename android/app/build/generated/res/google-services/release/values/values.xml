@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1097222311467-gv6u7kjb4n7a5uhshiltkv14lkqleiba.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1097222311467</string>
+    <string name="google_api_key" translatable="false">AIzaSyCmzT2eUgHbAc0NKCc_jpZd4HeKQT1pNpg</string>
+    <string name="google_app_id" translatable="false">1:1097222311467:android:baeef864c4971e00d4246e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCmzT2eUgHbAc0NKCc_jpZd4HeKQT1pNpg</string>
+    <string name="google_storage_bucket" translatable="false">samavesh-21ec6.appspot.com</string>
+    <string name="project_id" translatable="false">samavesh-21ec6</string>
+</resources>

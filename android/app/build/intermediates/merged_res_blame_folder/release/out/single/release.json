@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_hamburger.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_hamburger.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_call_icon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_call_icon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_logo.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_logo.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_plus.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_plus.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_info.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_info.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_wallet.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_wallet.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_confirmed.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_confirmed.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_splash.gif.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_splash.gif"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_banner.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_banner.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_arrowup.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_arrowup.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_location.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_location.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_arrowdown.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_arrowdown.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_social_email.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_social_email.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_confirm_icon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_confirm_icon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_review_image.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_review_image.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_walletcolor.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_walletcolor.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_tick.gif.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_tick.gif"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_booking_list.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_booking_list.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_social_facebook.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_social_facebook.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_social_gmail.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_social_gmail.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_star_icon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-mdpi/assets_star_icon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/shubhang/Desktop/samavesh/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/shubhang/Desktop/samavesh/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    }
+]

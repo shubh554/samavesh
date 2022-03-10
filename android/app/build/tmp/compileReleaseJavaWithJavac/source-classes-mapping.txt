@@ -1,0 +1,9 @@
+com/samavesh/MainActivity.java
+ com.samavesh.MainActivity
+com/samavesh/BuildConfig.java
+ com.samavesh.BuildConfig
+com/samavesh/MainApplication.java
+ com.samavesh.MainApplication
+ com.samavesh.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
